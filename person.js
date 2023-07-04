@@ -2,6 +2,7 @@
 //     name: 'Jane Doe',
 //     age: 30
 // }
+// module wrapper function 
 // (function (exports, require, module, __filename, __dirname) {
 
 // })
